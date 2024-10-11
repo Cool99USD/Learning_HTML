@@ -1,0 +1,12 @@
+.fett{
+    color:aquamarine;
+    font-weight:bolder;
+    font-family:helvetica, arial, serif;
+}
+.levin{
+    color: darkgoldenrod;
+    font-weight: 2000;
+    font-family: fantasy;
+}
+header{background-color: cornsilk;
+    padding: 1;}
